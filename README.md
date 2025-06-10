@@ -7,4 +7,4 @@ Click the link : https://currency-converter-by-nk.netlify.app/
 
 💼 Whether you're planning a trip, managing finances, or simply curious about currency values, this web app is a designed to make your life easier. Explore the world of currencies with just a few clicks! 💸✨
 
-Check it out now and simplify your currency conversions! #WebDevelopment #JavaScriptMagic #HTMLCSS #FinanceTools 🌍🔍
+Check it out now and simplify your currency conversions! #WebDevelopment #JavaScriptMagic #HTMLCSS #FinanceTools 🌍🔍 
